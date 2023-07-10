@@ -9,7 +9,7 @@
 - int x =int.Parse(req.Query["x"]); line 22
 - int y =int.Parse(req.Query["y"]) line 23
 - int result = x + y line 24
-  return new OkobjectResult(result); line 25
+- return new OkobjectResult(result); line 25
 - The parseInt method parses a value as a string and returns the first integer
 ## Creating-Azure-Function-App  
 - Azure Functions lets you run your code in a serverless environment without having to first create a virtual machine (VM) or publish a web application
